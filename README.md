@@ -7,5 +7,4 @@ Ingredients for an authentic pizza:
 4. Basil leaves
 5. Extra-virgin olive oil
 6. Salt
-
-   <img src="https://github.com/eswarpeddinti98/Pizza-Party/blob/main/Assets/pizza.jpg" width=100% height=100%>
+<img src="https://github.com/eswarpeddinti98/Pizza-Party/blob/main/Assets/pizza1.jpg" width=50% height=50%>
